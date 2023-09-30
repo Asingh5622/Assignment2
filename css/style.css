@@ -1,0 +1,13 @@
+/* Amarjot Singh 7755622*/
+body{
+height: 100vh;
+width: 100vw;
+background-color: hsla(280, 30%, 70%, 0.3);
+font: normal normal normal 12px/1.5 Verdana, Arial, Helvetica;
+
+}
+h2{
+    color: #fc0;
+    font-size: 2rem;
+}
+
